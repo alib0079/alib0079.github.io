@@ -28,7 +28,7 @@ $token=$_SESSION[token];
 <body>
 
   <header class="header">
-    <h1 class="header__title"><center>Universal AI 3.0 - UAI Token # <?echo"$_SESSION[token]";?></center></h1>
+    <h1 class="header__title"><center>Universal AI 3.0 - Wallet Address # <?echo"$_SESSION[token]";?></center></h1>
     
   </header>
 
