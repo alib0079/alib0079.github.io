@@ -37,7 +37,7 @@ $token=$_SESSION[token];
 	<div class="middle">
 	   <button id="butListen" class="headerButton"><i class="headerButton">Turn Mic On</i>
 	   <button id="butConnect" class="headerButton"><i class="headerButton">Bluetooth Connections</i>
-           <button ><i>Train AI</i>
+           <button ><i>Train AI Online</i>
 	</div>
 	<div class="bottom" ></div>
  
